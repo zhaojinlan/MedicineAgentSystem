@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Documentation
+*.md
+*.pdf
+docs/
+
+# Test files
+Test/
+tests/
+
+# Temporary files
+*.log
+temp_uploads/*
+!temp_uploads/.gitkeep
+
+# Node modules (前端)
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+patient_data/*
+!patient_data/.gitkeep
+Knowledges/*
+!Knowledges/.gitkeep
+RAG/DB/*
+!RAG/DB/.gitkeep
+*.ipynb
+.env
+hello.c
+

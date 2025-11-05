@@ -1,0 +1,66 @@
+# ============================================================================
+# 医疗多智能体系统 - MCP服务 Dockerfile
+# ============================================================================
+
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# 设置环境变量
+ENV PYTHONUNBUFFERED=1 \
+    PYTHONDONTWRITEBYTECODE=1 \
+    PIP_NO_CACHE_DIR=1 \
+    PIP_DISABLE_PIP_VERSION_CHECK=1 \
+    DEBIAN_FRONTEND=noninteractive
+
+# 安装系统依赖
+# 使用镜像源提高下载速度和稳定性（支持国内网络环境）
+RUN sed -i 's/deb.debian.org/mirrors.tuna.tsinghua.edu.cn/g' /etc/apt/sources.list.d/debian.sources 2>/dev/null || \
+    sed -i 's/deb.debian.org/mirrors.tuna.tsinghua.edu.cn/g' /etc/apt/sources.list 2>/dev/null || true && \
+    apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    gcc \
+    g++ \
+    curl \
+    wget \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+# 复制requirements.txt（利用Docker缓存）
+COPY requirements.txt .
+
+# 安装必要的依赖
+# MCP服务需要：mcp、neo4j、langchain相关、sentence-transformers
+# 使用清华PyPI镜像加速下载
+RUN pip install --upgrade pip setuptools wheel -i https://pypi.tuna.tsinghua.edu.cn/simple && \
+    pip install torch --index-url https://download.pytorch.org/whl/cpu && \
+    pip install -i https://pypi.tuna.tsinghua.edu.cn/simple \
+        mcp \
+        neo4j \
+        langchain-community \
+        langchain-huggingface \
+        sentence-transformers \
+        transformers
+
+# 复制项目文件（只复制需要的部分）
+COPY MCP/ ./MCP/
+COPY RAG/tools/ ./RAG/tools/
+COPY config.py .
+
+# 创建__init__.py文件确保RAG是一个包
+RUN mkdir -p RAG && touch RAG/__init__.py
+
+# 创建必要的目录
+RUN mkdir -p RAG/models
+
+# 暴露端口
+EXPOSE 8000
+
+# 健康检查
+HEALTHCHECK --interval=30s --timeout=10s --start-period=30s --retries=3 \
+    CMD python -c "import urllib.request; urllib.request.urlopen('http://localhost:8000')" || exit 1
+
+# 启动命令
+CMD ["python", "MCP/mcp_server.py"]
+
+

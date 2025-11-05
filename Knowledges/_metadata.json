@@ -1,0 +1,13 @@
+{
+  "坏死性软组织感染临床诊治急诊专家共识": {
+    "document_name": "坏死性软组织感染临床诊治急诊专家共识",
+    "created_at": "2025-11-01T15:54:25.615584",
+    "updated_at": "2025-11-01T15:54:25.615600",
+    "file_path": "/app/Knowledges/坏死性软组织感染临床诊治急诊专家共识",
+    "redis_indices": [],
+    "neo4j_labels": [],
+    "entity_count": 110,
+    "relationship_count": 107,
+    "status": "active"
+  }
+}

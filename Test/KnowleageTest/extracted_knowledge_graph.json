@@ -1,0 +1,1833 @@
+{
+  "entities": [
+    {
+      "name": "坏死性软组织感染",
+      "entity_type": "Disease",
+      "description": "英文名：Necrotizing soft tissue infections，缩写：NSTIs"
+    },
+    {
+      "name": "皮下组织（坏死性蜂窝织炎）",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "筋膜（坏死性筋膜炎）",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "肌肉（坏死性肌炎）感染",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "头颈部NSTIs",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "肢体NSTIs",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "胸/腹部NSTIs（如Meleney协同坏疽）",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "会阴/肛周NSTIs（如Fournier坏疽）",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "混合菌感染",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "单一病原体感染",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "创伤弧菌等海洋菌群引起的感染",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "真菌感染",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "A族溶血性链球菌",
+      "entity_type": "Pathogen",
+      "description": "英文名：group A Streptococcus，缩写：GAS"
+    },
+    {
+      "name": "耐甲氧西林金黄色葡萄球菌",
+      "entity_type": "Pathogen",
+      "description": "英文名：methicillin-resistant Staphylococcus aureus，缩写：MRSA"
+    },
+    {
+      "name": "创伤弧菌",
+      "entity_type": "Pathogen",
+      "description": "英文名：Vibrio vulnificus"
+    },
+    {
+      "name": "高龄（年龄≥60岁）",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "酗酒",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "肥胖",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "糖尿病",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "慢性肝病",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "慢性肾病",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "使用免疫抑制剂或免疫功能低下",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "创伤弧菌脓毒症",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "肿胀",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "疼痛",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "红斑",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "发热",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "小水泡或血泡",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "组织缺血性坏死",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "皮肤大片瘀斑",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "张力升高",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "水泡或血泡融合",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "坏死破溃",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "皮下捻发音",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "皮肤发黑或呈暗红色",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "多脏器功能衰竭",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "呼吸急促",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "呼吸困难",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "少尿或无尿",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "黄疸",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "休克",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "急性呼吸窘迫综合征（ARDS）",
+      "entity_type": "Disease",
+      "description": "英文名：Acute Respiratory Distress Syndrome"
+    },
+    {
+      "name": "急性肾功能不全",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "血清肌酸激酶（CK）水平升高",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "血栓调节蛋白（TM）",
+      "entity_type": "Test",
+      "description": "英文名：Thrombomodulin，缩写：TM"
+    },
+    {
+      "name": "白细胞计数升高",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "C反应蛋白升高",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "降钙素原升高",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "血乳酸升高",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "代谢性酸中毒",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "器官损伤标志物升高",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "血培养",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "病灶处组织液培养",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "坏死组织培养",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "宏基因组学如mNGS",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "LRINEC评分",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "改良LRINEC评分",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "SIARI评分",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "NAS评分",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "手指试验阳性",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "手术探查",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "组织病理学检查",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "深静脉血栓形成",
+      "entity_type": "Disease",
+      "description": "英文名：Deep venous thrombosis，缩写：DVT"
+    },
+    {
+      "name": "动脉栓塞",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "隐翅虫皮炎",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "Double-SR评分表",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "NSTIs快速响应小组",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "慢性疾病",
+      "entity_type": "RiskFactor",
+      "description": "具体指糖尿病、慢性肝病、慢性肾病"
+    },
+    {
+      "name": "使用免疫抑制剂",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "免疫功能低下",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "HIV感染",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "注射毒品",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "长期使用激素",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "血液系统肿瘤",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "骨髓移植",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "器官移植",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "嗜水气单胞菌",
+      "entity_type": "Pathogen",
+      "description": "英文名：Aeromonas hydrophila"
+    },
+    {
+      "name": "产气荚膜梭菌",
+      "entity_type": "Pathogen",
+      "description": ""
+    },
+    {
+      "name": "溶组织梭菌",
+      "entity_type": "Pathogen",
+      "description": ""
+    },
+    {
+      "name": "化脓性链球菌",
+      "entity_type": "Pathogen",
+      "description": ""
+    },
+    {
+      "name": "qSOFA评分",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "青霉素",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "克林霉素",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "美罗培南",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "亚胺培南",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "万古霉素",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "大剂量青霉素联合克林霉素",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "碳青霉烯类",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "糖肽类",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "利奈唑胺",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "达托霉素",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "头孢洛林",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "多西环素",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "环丙沙星",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "头孢曲松",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "经验性抗感染治疗",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "手术治疗",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "张力性水疱或血性水疱",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "肿胀伴皮肤瘀斑或皮肤坏死",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "皮下组织木质硬结(触诊不能分辨筋膜平面和肌肉群)",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "脓毒症或脓毒性休克",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "全身情况进行性恶化难以纠正",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "CK明显升高",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "LIRNEC评分≥6分",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "血流动力学不稳定",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "血小板低",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "出凝血严重障碍",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "局部麻醉或静脉镇痛",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "多处纵向垂直切口",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "钝性分离皮下组织",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "打开筋膜直到肌膜并向近端延伸",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "单一大切口方式",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "多个小切口方式",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "碘伏、双氧水冲洗",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "磺胺嘧啶银乳膏混合莫匹罗星软膏纱布外敷",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "创面评估及换药",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "彻底清创",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "植皮或皮瓣转移修复创面",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "肢体周围血管严重闭塞",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "肌肉广泛且快速地坏死",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "多次清创后感染部位仍快速进展者",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "截肢",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "多器官损伤",
+      "entity_type": "RiskFactor",
+      "description": ""
+    },
+    {
+      "name": "支持治疗",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "液体复苏",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "镇痛",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "血管活性药",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "呼吸机支持",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "血液净化",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "护肝",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "护肾",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "高压氧治疗",
+      "entity_type": "Test",
+      "description": ""
+    },
+    {
+      "name": "静脉输注免疫球蛋白（IVIG）",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "CD28拮抗剂AB103",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "眼眶周围NSTIs",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "颈部坏死性筋膜炎",
+      "entity_type": "Disease",
+      "description": "英文名：Necrotizing fasciitis of the neck，缩写：CNF"
+    },
+    {
+      "name": "Fournier坏疽",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "Meleney协同坏疽",
+      "entity_type": "Disease",
+      "description": "又称手术后进行性协同性坏疽"
+    },
+    {
+      "name": "眼部疼痛",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "发红",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "分泌物增加",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "眼球肿胀突出",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "视力下降",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "眼肌麻痹",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "皮温升高",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "颈部肿胀疼痛",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "吞咽疼痛",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "吞咽困难",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "气道梗阻",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "水肿",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "颈动脉鞘坏死",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "颈内静脉血栓",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "胸膜炎",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "心包炎",
+      "entity_type": "Disease",
+      "description": ""
+    },
+    {
+      "name": "皮损出现三区",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "淡紫红色坏死区",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "紫红色区",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "鲜红色区",
+      "entity_type": "Symptom",
+      "description": ""
+    },
+    {
+      "name": "肠造瘘",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "膀胱造瘘",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "肛门引流",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "结直肠外科手术",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "泌尿外科手术",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "腹外科手术",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "哌拉西林/他唑巴坦",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "碳青霉烯类抗生素",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "激素治疗",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "有创呼吸机支持",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "气管切开术",
+      "entity_type": "Treatment",
+      "description": ""
+    },
+    {
+      "name": "急诊科",
+      "entity_type": "LiteratureSource",
+      "description": ""
+    },
+    {
+      "name": "放射科",
+      "entity_type": "LiteratureSource",
+      "description": ""
+    },
+    {
+      "name": "普外科",
+      "entity_type": "LiteratureSource",
+      "description": ""
+    },
+    {
+      "name": "药学科",
+      "entity_type": "LiteratureSource",
+      "description": ""
+    },
+    {
+      "name": "心理医学科",
+      "entity_type": "LiteratureSource",
+      "description": ""
+    },
+    {
+      "name": "中医科",
+      "entity_type": "LiteratureSource",
+      "description": ""
+    },
+    {
+      "name": "烧伤或创伤外科",
+      "entity_type": "LiteratureSource",
+      "description": ""
+    },
+    {
+      "name": "创面修复科",
+      "entity_type": "LiteratureSource",
+      "description": ""
+    },
+    {
+      "name": "康复科",
+      "entity_type": "LiteratureSource",
+      "description": ""
+    },
+    {
+      "name": "感染科",
+      "entity_type": "LiteratureSource",
+      "description": ""
+    },
+    {
+      "name": "整形科",
+      "entity_type": "LiteratureSource",
+      "description": ""
+    },
+    {
+      "name": "护理",
+      "entity_type": "LiteratureSource",
+      "description": ""
+    },
+    {
+      "name": "多学科救治团队",
+      "entity_type": "LiteratureSource",
+      "description": "英文名：multi-disciplinaryrescueteam，缩写：MDT"
+    },
+    {
+      "name": "手术病史",
+      "entity_type": "RiskFactor",
+      "description": ""
+    }
+  ],
+  "relationships": [
+    {
+      "source": "坏死性软组织感染",
+      "target": "A族溶血性链球菌",
+      "relation_type": "CAUSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "耐甲氧西林金黄色葡萄球菌",
+      "relation_type": "CAUSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "创伤弧菌",
+      "relation_type": "CAUSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "高龄（年龄≥60岁）",
+      "relation_type": "HAS_RISK_FACTOR",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "酗酒",
+      "relation_type": "HAS_RISK_FACTOR",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "肥胖",
+      "relation_type": "HAS_RISK_FACTOR",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "糖尿病",
+      "relation_type": "HAS_RISK_FACTOR",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "慢性肝病",
+      "relation_type": "HAS_RISK_FACTOR",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "慢性肾病",
+      "relation_type": "HAS_RISK_FACTOR",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "使用免疫抑制剂或免疫功能低下",
+      "relation_type": "HAS_RISK_FACTOR",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "肿胀",
+      "relation_type": "HAS_SYMPTOM",
+      "description": "NSTIs早期可表现为肿胀"
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "疼痛",
+      "relation_type": "HAS_SYMPTOM",
+      "description": "NSTIs早期可表现为疼痛"
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "红斑",
+      "relation_type": "HAS_SYMPTOM",
+      "description": "NSTIs早期可表现为红斑"
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "发热",
+      "relation_type": "HAS_SYMPTOM",
+      "description": "NSTIs早期可表现为发热"
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "小水泡或血泡",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "组织缺血性坏死",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "皮肤大片瘀斑",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "张力升高",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "水泡或血泡融合",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "坏死破溃",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "皮下捻发音",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "皮肤发黑或呈暗红色",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "创伤弧菌脓毒症",
+      "target": "多脏器功能衰竭",
+      "relation_type": "CAUSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "呼吸急促",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "呼吸困难",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "少尿或无尿",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "黄疸",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "创伤弧菌脓毒症",
+      "target": "休克",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "急性呼吸窘迫综合征（ARDS）",
+      "relation_type": "CAUSED_BY",
+      "description": ""
+    },
+    {
+      "source": "创伤弧菌脓毒症",
+      "target": "急性肾功能不全",
+      "relation_type": "CAUSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "血清肌酸激酶（CK）水平升高",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "血栓调节蛋白（TM）",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "白细胞计数升高",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "C反应蛋白升高",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "降钙素原升高",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "血乳酸升高",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "代谢性酸中毒",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "器官损伤标志物升高",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "血培养",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "病灶处组织液培养",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "坏死组织培养",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "宏基因组学如mNGS",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "手术探查",
+      "relation_type": "DIAGNOSED_BY",
+      "description": "手术探查是诊断NSTIs的金标准"
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "手指试验阳性",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "组织病理学检查",
+      "relation_type": "DIAGNOSED_BY",
+      "description": "组织病理可辅助NSTIs诊断"
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "深静脉血栓形成",
+      "relation_type": "DIFFERENTIAL_DIAGNOSIS",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "动脉栓塞",
+      "relation_type": "DIFFERENTIAL_DIAGNOSIS",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "隐翅虫皮炎",
+      "relation_type": "DIFFERENTIAL_DIAGNOSIS",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "Double-SR评分表",
+      "relation_type": "DIAGNOSED_BY",
+      "description": "推荐意见4：对于可疑NSTIs患者推荐采用'Double-SR'评分进行急诊快速筛查"
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "NSTIs快速响应小组",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "慢性疾病",
+      "relation_type": "HAS_RISK_FACTOR",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "使用免疫抑制剂",
+      "relation_type": "HAS_RISK_FACTOR",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "免疫功能低下",
+      "relation_type": "HAS_RISK_FACTOR",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "HIV感染",
+      "relation_type": "HAS_RISK_FACTOR",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "注射毒品",
+      "relation_type": "HAS_RISK_FACTOR",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "长期使用激素",
+      "relation_type": "HAS_RISK_FACTOR",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "嗜水气单胞菌",
+      "relation_type": "CAUSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "产气荚膜梭菌",
+      "relation_type": "CAUSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "溶组织梭菌",
+      "relation_type": "CAUSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "化脓性链球菌",
+      "relation_type": "CAUSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "qSOFA评分",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "大剂量青霉素联合克林霉素",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "碳青霉烯类",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "糖肽类",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "利奈唑胺",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "达托霉素",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "头孢洛林",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "多西环素",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "环丙沙星",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "头孢曲松",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "经验性抗感染治疗",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "手术治疗",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "张力性水疱或血性水疱",
+      "target": "肢体NSTIs",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "肿胀伴皮肤瘀斑或皮肤坏死",
+      "target": "肢体NSTIs",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "皮下组织木质硬结(触诊不能分辨筋膜平面和肌肉群)",
+      "target": "肢体NSTIs",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "皮下捻发音",
+      "target": "肢体NSTIs",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "脓毒症或脓毒性休克",
+      "target": "肢体NSTIs",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "全身情况进行性恶化难以纠正",
+      "target": "肢体NSTIs",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "CK明显升高",
+      "target": "肢体NSTIs",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "LIRNEC评分≥6分",
+      "target": "肢体NSTIs",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "血流动力学不稳定",
+      "target": "肢体NSTIs",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "血小板低",
+      "target": "肢体NSTIs",
+      "relation_type": "HAS_RISK_FACTOR",
+      "description": ""
+    },
+    {
+      "source": "出凝血严重障碍",
+      "target": "肢体NSTIs",
+      "relation_type": "HAS_RISK_FACTOR",
+      "description": ""
+    },
+    {
+      "source": "多处纵向垂直切口",
+      "target": "手术治疗",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "钝性分离皮下组织",
+      "target": "手术治疗",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "打开筋膜直到肌膜并向近端延伸",
+      "target": "手术治疗",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "单一大切口方式",
+      "target": "肢体NSTIs",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "多个小切口方式",
+      "target": "肢体NSTIs",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "碘伏、双氧水冲洗",
+      "target": "手术治疗",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "磺胺嘧啶银乳膏混合莫匹罗星软膏纱布外敷",
+      "target": "手术治疗",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "创面评估及换药",
+      "target": "肢体NSTIs",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "彻底清创",
+      "target": "手术治疗",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "植皮或皮瓣转移修复创面",
+      "target": "肢体NSTIs",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "肢体周围血管严重闭塞",
+      "target": "肢体NSTIs",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "肌肉广泛且快速地坏死",
+      "target": "肢体NSTIs",
+      "relation_type": "HAS_RISK_FACTOR",
+      "description": ""
+    },
+    {
+      "source": "多次清创后感染部位仍快速进展者",
+      "target": "肢体NSTIs",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "截肢",
+      "target": "肢体NSTIs",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "多器官损伤",
+      "target": "坏死性软组织感染",
+      "relation_type": "HAS_RISK_FACTOR",
+      "description": ""
+    },
+    {
+      "source": "支持治疗",
+      "target": "坏死性软组织感染",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "液体复苏",
+      "target": "支持治疗",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "镇痛",
+      "target": "支持治疗",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "血管活性药",
+      "target": "支持治疗",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "呼吸机支持",
+      "target": "支持治疗",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "血液净化",
+      "target": "支持治疗",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "护肝",
+      "target": "支持治疗",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "护肾",
+      "target": "支持治疗",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "高压氧治疗",
+      "target": "坏死性软组织感染",
+      "relation_type": "DIAGNOSED_BY",
+      "description": ""
+    },
+    {
+      "source": "静脉输注免疫球蛋白（IVIG）",
+      "target": "坏死性软组织感染",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "CD28拮抗剂AB103",
+      "target": "坏死性软组织感染",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "眼眶周围NSTIs",
+      "relation_type": "HAS_SYMPTOM",
+      "description": "坏死性软组织感染的症状包括眼部疼痛、发红等"
+    },
+    {
+      "source": "颈部坏死性筋膜炎",
+      "target": "红斑",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "颈部坏死性筋膜炎",
+      "target": "皮温升高",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "颈部坏死性筋膜炎",
+      "target": "颈部肿胀疼痛",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "颈部坏死性筋膜炎",
+      "target": "吞咽疼痛",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "颈部坏死性筋膜炎",
+      "target": "吞咽困难",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "颈部坏死性筋膜炎",
+      "target": "气道梗阻",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "Fournier坏疽",
+      "target": "皮损出现三区",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "Meleney协同坏疽",
+      "target": "淡紫红色坏死区",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "Meleney协同坏疽",
+      "target": "紫红色区",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "Meleney协同坏疽",
+      "target": "鲜红色区",
+      "relation_type": "HAS_SYMPTOM",
+      "description": ""
+    },
+    {
+      "source": "颈部坏死性筋膜炎",
+      "target": "颈动脉鞘坏死",
+      "relation_type": "DIFFERENTIAL_DIAGNOSIS",
+      "description": ""
+    },
+    {
+      "source": "颈部坏死性筋膜炎",
+      "target": "颈内静脉血栓",
+      "relation_type": "DIFFERENTIAL_DIAGNOSIS",
+      "description": ""
+    },
+    {
+      "source": "颈部坏死性筋膜炎",
+      "target": "胸膜炎",
+      "relation_type": "DIFFERENTIAL_DIAGNOSIS",
+      "description": ""
+    },
+    {
+      "source": "颈部坏死性筋膜炎",
+      "target": "心包炎",
+      "relation_type": "DIFFERENTIAL_DIAGNOSIS",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "肠造瘘",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "膀胱造瘘",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "肛门引流",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "结直肠外科手术",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "泌尿外科手术",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "腹外科手术",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "万古霉素",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "哌拉西林/他唑巴坦",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "坏死性软组织感染",
+      "target": "碳青霉烯类抗生素",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "颈部坏死性筋膜炎",
+      "target": "激素治疗",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "颈部坏死性筋膜炎",
+      "target": "有创呼吸机支持",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "颈部坏死性筋膜炎",
+      "target": "气管切开术",
+      "relation_type": "TREATED_WITH",
+      "description": ""
+    },
+    {
+      "source": "急诊科",
+      "target": "放射科",
+      "relation_type": "SOURCE_FROM",
+      "description": ""
+    },
+    {
+      "source": "急诊科",
+      "target": "普外科",
+      "relation_type": "SOURCE_FROM",
+      "description": ""
+    },
+    {
+      "source": "急诊科",
+      "target": "药学科",
+      "relation_type": "SOURCE_FROM",
+      "description": ""
+    },
+    {
+      "source": "急诊科",
+      "target": "心理医学科",
+      "relation_type": "SOURCE_FROM",
+      "description": ""
+    },
+    {
+      "source": "急诊科",
+      "target": "中医科",
+      "relation_type": "SOURCE_FROM",
+      "description": ""
+    },
+    {
+      "source": "急诊科",
+      "target": "烧伤或创伤外科",
+      "relation_type": "SOURCE_FROM",
+      "description": ""
+    },
+    {
+      "source": "急诊科",
+      "target": "创面修复科",
+      "relation_type": "SOURCE_FROM",
+      "description": ""
+    },
+    {
+      "source": "急诊科",
+      "target": "康复科",
+      "relation_type": "SOURCE_FROM",
+      "description": ""
+    },
+    {
+      "source": "急诊科",
+      "target": "感染科",
+      "relation_type": "SOURCE_FROM",
+      "description": ""
+    },
+    {
+      "source": "急诊科",
+      "target": "整形科",
+      "relation_type": "SOURCE_FROM",
+      "description": ""
+    },
+    {
+      "source": "急诊科",
+      "target": "护理",
+      "relation_type": "SOURCE_FROM",
+      "description": ""
+    },
+    {
+      "source": "急诊科",
+      "target": "多学科救治团队",
+      "relation_type": "SOURCE_FROM",
+      "description": ""
+    }
+  ],
+  "metadata": {
+    "source_document": "ragt.md",
+    "extraction_time": "2025-10-27 16:46:54",
+    "entity_count": 183,
+    "relationship_count": 148,
+    "entity_type_counts": {
+      "Disease": 27,
+      "Pathogen": 7,
+      "RiskFactor": 21,
+      "Symptom": 43,
+      "Test": 28,
+      "Treatment": 44,
+      "LiteratureSource": 13
+    },
+    "relation_type_counts": {
+      "CAUSED_BY": 10,
+      "HAS_RISK_FACTOR": 17,
+      "HAS_SYMPTOM": 39,
+      "DIAGNOSED_BY": 24,
+      "DIFFERENTIAL_DIAGNOSIS": 7,
+      "TREATED_WITH": 39,
+      "SOURCE_FROM": 12
+    }
+  }
+}
